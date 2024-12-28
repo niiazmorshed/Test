@@ -21,7 +21,7 @@
 using namespace std;
 void myFunction(string a){
     for (int i = a.length()-1; i >= 0; i--) {
-        if ( )
+        cout << "ajkhjadhdjsdh" ;
     }
 }
 int main(){
